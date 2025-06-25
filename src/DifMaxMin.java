@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Main {
+public class DifMaxMin {
     public static void main(String[] args) {
         System.out.println("Diferencia entre el valor máximo y mínimo de un array");
         Scanner read = new Scanner(System.in);
