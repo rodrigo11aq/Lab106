@@ -3,7 +3,6 @@ public class DifMaxMin {
     public static void main(String[] args) {
         System.out.println("Diferencia entre el valor máximo y mínimo de un array");
         Scanner read = new Scanner(System.in);
-        //int arreglo[] = {1, 6, 8, -9, 7, 10, 12};
         System.out.println("Introduce el tamaño del arreglo: ");
         int tam_arreglo= read.nextInt();
         read.nextLine();
